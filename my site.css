@@ -1,0 +1,44 @@
+
+a:hover{
+    color:black;
+}
+.container-fluid{
+    background-color:#E94560;
+
+}
+.nav-item{
+    color:white;
+}
+.nav-link{
+     color:white;
+     font-size: 35px;
+}
+.thekey{
+  background-color: #E94560;
+
+}
+.wts{
+  color:white;
+  font-family: ExtraLight 200 Italic;
+
+  text-align: center;
+}
+
+.myphoto{
+  padding-bottom:30px;
+  padding-top:30px;
+}
+#demandshift{
+     border-top-style: solid;
+border-top-width: 500px;
+border-bottom-width: 500px;
+border-bottom-style: solid;
+border-left-width: 300px;
+border-left-style: solid;
+border-right-width: 300px;
+border-right-style: solid;
+background-color: #E94560;
+}
+.the font color{
+  font-style: italic;
+}
